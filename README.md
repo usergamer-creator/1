@@ -1,6 +1,6 @@
 # 🖥️ Remote Desktop Protocol
 
-Access a **Windows 11 Remote Desktop** with **free 4GB/s internet speed** instantly!  
+Access a **Windows 11 Rdemote Desktop** with **free 4GB/s internet speed** instantly!  
 This project provides a quick and reliable way to connect to a powerful remote environment for development, testing, or personal use. 🚀
 
 ---
